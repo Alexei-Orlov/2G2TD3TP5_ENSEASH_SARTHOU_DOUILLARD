@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/alexei/Documents/ENSEA/Semestre_7/Informatique/Programation_systeme/TP",
+            "binaryPath": "/home/alexei/Documents/ENSEA/Semestre_7/Informatique/Programation_systeme/TP/TP",
+            "binaryArgs": []
+        }
+    ]
+}
